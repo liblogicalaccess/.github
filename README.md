@@ -1,2 +1,2 @@
 # .github
-LibLogicalAccess GitHub page
+LibLogicalAccess GitHub repository
